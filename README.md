@@ -13,4 +13,4 @@ Later on, we'll learn how to connect our Ruby (and even later, Ruby on Rails) ap
 
 We've already built out domain models in which instances of classes are related to one another. With the SQL skills we'll be learning in this unit, we'll be able to put it all together and build apps that actually save that data. 
 
-<a href='https://learn.co/lessons/why-sql-matters' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/why-sql-matters' title='Why SQL Matters'>Why SQL Matters</a> on Learn.co and start learning to code for free.</p>
